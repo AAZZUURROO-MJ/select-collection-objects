@@ -1,9 +1,9 @@
 schema_version = "1.0.0"
 
 id = "select_collection_objects"
-version = "1.3.1"
+version = "1.4.0"
 name = "Select Collection Objects"
-tagline = "Click a collection or object to select the whole collection"
+tagline = "Double-click an object to select its whole collection"
 maintainer = "Jáchym Moravec"
 type = "add-on"
 
