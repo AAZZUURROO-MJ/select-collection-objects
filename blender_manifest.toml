@@ -1,0 +1,19 @@
+schema_version = "1.0.0"
+
+id = "select_collection_objects"
+version = "1.3.1"
+name = "Select Collection Objects"
+tagline = "Click a collection or object to select the whole collection"
+maintainer = "Jáchym Moravec"
+type = "add-on"
+
+tags = ["Object", "User Interface"]
+
+blender_version_min = "4.2.0"
+
+license = [
+  "SPDX:GPL-3.0-or-later",
+]
+copyright = [
+  "2026 Jáchym Moravec",
+]
